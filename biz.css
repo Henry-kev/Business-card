@@ -1,0 +1,26 @@
+body {
+	margin: 20px;
+	font-family: "Courier New", Courier, monospace;
+}
+
+.mad-img {
+	width: 150px;
+	height: 150px;
+}
+
+.card {
+	display: flex;
+	justify-content: space-around;
+	margin: 30px auto;
+	padding: 30px;
+	width: 400px;
+	text-align: center;
+	color: #e6f9af;
+	border-bottom: 6px solid #384e77;
+	background-color: #0d0630;
+	border-radius: 10px;
+}
+
+p {
+	font-family: "Times New Roman", Times, serif;
+}
